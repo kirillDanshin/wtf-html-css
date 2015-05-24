@@ -1,30 +1,30 @@
-# WTF, HTML and CSS?
+# WTF, HTML и CSS?
 
-**WTF, HTML and CSS?** is a list of reasons HTML and CSS might make you say what the fuck. It's a curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas, created with the goal of making them *less* common.
+**WTF, HTML и CSS?** это список причин, по которым HTML и CSS может заставить вас кричать what the fuck. Это поддерживаемый список распространенных ошибок, дилем и затруднительных ситуаций, созданный с целью сделать их **менее** распространенными.
 
-**[Start reading ☞](http://wtfhtmlcss.com)**
+**[Начать чтение ☞](http://wtfhtmlcss.com)**
 
 ---
 
-### Contribute
+### Вклад
 
-Open an issue or a pull request to suggest changes or additions.
+Откройте issue или pull request чтобы предложить правки или дополнения
 
 
-### License
+### Лицензия
 
 [MIT licensed.](LICENSE.md) Copyright 2014 @mdo.
 
-### Translations
+### Перевод
 
-Translations are maintained by their creators and may not always be up to date with the original here.
+Переводы поддерживаются их авторами и могут не всегда содержать последних изменений.
 
-- [French](http://mathieuhays.github.io/wtf-html-css/) - Translated by [mathieuhays](https://github.com/mathieuhays)
-- [Italian](http://aauri.github.io/wtf-html-css/) - Translated by [aauri](https://github.com/aauri)
-- [Korean](http://snack-x.github.io/wtf-html-css/) - Translated by [Snack](https://github.com/Snack-X)
-- [Portuguese](http://webfatorial.github.io/wtf-html-css/) - Translated by [webfatorial](http://webfatorial.com/)
-- [Spanish](http://aauri.github.io/wtf-html-y-css/) - Translated by [aauri](https://github.com/aauri)
+- [Французский](http://mathieuhays.github.io/wtf-html-css/) - Перевод от [mathieuhays](https://github.com/mathieuhays)
+- [Итальянский](http://aauri.github.io/wtf-html-css/) - Перевод от [aauri](https://github.com/aauri)
+- [Корейский](http://snack-x.github.io/wtf-html-css/) - Перевод от [Snack](https://github.com/Snack-X)
+- [Португальский](http://webfatorial.github.io/wtf-html-css/) - Перевод от [webfatorial](http://webfatorial.com/)
+- [Испанский](http://aauri.github.io/wtf-html-y-css/) - Перевод от [aauri](https://github.com/aauri)
 
-Have a translation you'd like to link to? Open a pull request to add it here. Be sure to keep it alphabetical.
+У вас есть перевод, который вы хотели бы прикрепить? Откройте pull request чтобы добавить его сюда.
 
 <3
