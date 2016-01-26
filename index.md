@@ -239,6 +239,6 @@ input[type="text"],
 
 <a name="position-transforms"></a>
 ### `position: fixed` и трансформации
-Браузеры сбрасывают `position: fixed;` когда родилельскому элементу задано свойство `transform`. Использование трансформаций создает новый блок, заставляющий родителя принимать `position: relative;`, а фиксированного элемента вести себя как `position: absolute;`.
+Браузеры сбрасывают `position: fixed;` когда родительскому элементу задано свойство `transform`. Использование трансформаций создает новый блок, заставляющий родителя принимать `position: relative;`, а фиксированного элемента вести себя как `position: absolute;`.
 
 [Смотрите демо](http://jsbin.com/yabek/1/) и читайте [Eric Meyer's post on the matter](http://meyerweb.com/eric/thoughts/2011/09/12/un-fixing-fixed-elements-with-css-transforms/).
