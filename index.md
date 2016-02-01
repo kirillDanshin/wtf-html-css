@@ -171,7 +171,7 @@ html {
 
 
 <a name="buttons-firefox-outline"></a>
-### Внутренняя обводка кнопок в Firefix
+### Внутренняя обводка кнопок в Firefox
 
 Firefox [добавляет внутреннюю обводку](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button#Notes) кнопкам (`<input>` и `<button>`) при фокусе `:focus`. По-видимому с целью повышения удобства, но ее добавление чаще выглядит глупо. Используйте этот CSS для перезаписи:
 
